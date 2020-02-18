@@ -1,4 +1,5 @@
-          
+ #@ Akash_babu_006
+ #babushanthi207@gmail.com
 from tkinter import *
 import tkinter as tk
 from tkinter import ttk
@@ -17,9 +18,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
-
-login = 'jsrrengineeringcollegge@gmail.com'
-password = 'cseuser!'
+#id and password of your mail id
+login = 'mail id here'
+password = 'password here'
 
 global message1
 wb = load_workbook("stud.xlsm")
